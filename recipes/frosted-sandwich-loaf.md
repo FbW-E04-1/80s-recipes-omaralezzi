@@ -4,7 +4,7 @@
 
 This recipe is very versatile as you can use many different fillings, including thin sliced meats, seafood salad--or make up one of your own. You may use less salad dressing, if you like, in the spreads.
 
-![Lime](../images/frosted-sandwich-loaf.jpg)
+![san](../images/frosted-sandwich-loaf.jpg)
 
 
 
