@@ -7,12 +7,12 @@ This is a great recipe my mom got from my aunt. She has made it every year for T
 ![Lime](../images/lime-gelatin-salad.jpg)
 
 
-- [ ] cup boiling water
-- [ ] (6 ounce) package lime flavored Jell-O® mix
-- [ ] (20 ounce) can crushed pineapple, drained with juice reserved
-- [ ] (8 ounce) package cream cheese, softened
-- [ ] cups heavy cream
-- [ ] cup chopped pecans
+- [ ] 1cup boiling water
+- [ ] 1(6 ounce) package lime flavored Jell-O® mix
+- [ ] 1(20 ounce) can crushed pineapple, drained with juice reserved
+- [ ] 1(8 ounce) package cream cheese, softened
+- [ ] 2cups heavy cream
+- [ ] 1cup chopped pecans
 
 ### DirectionsInstructions Checklist
 
