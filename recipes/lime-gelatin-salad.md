@@ -2,7 +2,7 @@
 
 This is a great recipe my mom got from my aunt. She has made it every year for Thanksgiving. It is a family tradition for us. It can be made a day or two ahead of time, if you like. It looks just beautiful in a cut crystal bowl. Thanksgiving is not the same without it for us! We just 'gobble' it up! Chopped walnuts can be substituted for chopped pecans.
 
-![](frosted-sandwich-loaf.jpg)
+![](images/lime-gelatin-salad.jpg)
 
 1 cup boiling water
 1 (6 ounce) package lime flavored Jell-O® mix
