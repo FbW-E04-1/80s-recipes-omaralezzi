@@ -7,10 +7,10 @@ This recipe is very versatile as you can use many different fillings, including 
 ![Lime](../images/robo_chef.jpg)
 
 
-[![button](../images/t-frosted-sandwich-loaf.jpg)](../recipes/frosted-sandwich-loaf.md)
+[![san](../images/t-frosted-sandwich-loaf.jpg)](../recipes/frosted-sandwich-loaf.md)
 
 
-[![button](../images/t-lime-gelatin-salad.jpg)](../recipes/lime-gelatin-salad.md)
+[![lim](../images/t-lime-gelatin-salad.jpg)](../recipes/lime-gelatin-salad.md)
 
 
-[![button](../images/t-perfection-salad.jpg)](../recipes/perfection-salad.md)
+[![sal](../images/t-perfection-salad.jpg)](../recipes/perfection-salad.md)
