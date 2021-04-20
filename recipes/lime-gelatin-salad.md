@@ -2,15 +2,15 @@
 
 This is a great recipe my mom got from my aunt. She has made it every year for Thanksgiving. It is a family tradition for us. It can be made a day or two ahead of time, if you like. It looks just beautiful in a cut crystal bowl. Thanksgiving is not the same without it for us! We just 'gobble' it up! Chopped walnuts can be substituted for chopped pecans.
 
-![Lime](https://github.com/FbW-E04-1/80s-recipes-omaralezzi/blob/main/images/frosted-sandwich-loaf.jpg)
+![Lime](../images/frosted-sandwich-loaf.jpg)
 
 
-1 cup boiling water
-1 (6 ounce) package lime flavored Jell-O® mix
-1 (20 ounce) can crushed pineapple, drained with juice reserved
-1 (8 ounce) package cream cheese, softened
-2 cups heavy cream
-1 cup chopped pecans
+- [ ] cup boiling water
+- [ ] (6 ounce) package lime flavored Jell-O® mix
+- [ ] (20 ounce) can crushed pineapple, drained with juice reserved
+- [ ] (8 ounce) package cream cheese, softened
+- [ ] cups heavy cream
+- [ ] cup chopped pecans
 
 ## DirectionsInstructions Checklist
 Step 1
